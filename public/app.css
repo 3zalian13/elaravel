@@ -1,0 +1,19 @@
+body{
+    width: 50%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    line-height: 1.6;
+}
+
+article{
+    margin-top: 20px;
+    border-top: 1px solid blue;
+    padding-top: 2rem;
+}
+
+a{
+    color: blue;
+}
